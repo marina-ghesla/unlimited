@@ -1,0 +1,27 @@
+.card-white{
+	background-color: #FFFFF5;
+	margin-top: 40px;
+	padding: 20px;
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+	text-align: center;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding-left: 15px;
+}
+
+.list-inline i {
+	color: #314e52;
+	font-size: 30px;
+}
+
+.list-inline i:hover {
+	color: #bdc7c9;
+}
